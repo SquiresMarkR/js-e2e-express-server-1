@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SquiresMarkR/TestingProject/_apis/build/status%2FSquiresMarkR.js-e2e-express-server-1?branchName=main)](https://dev.azure.com/SquiresMarkR/TestingProject/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
